@@ -5,3 +5,6 @@ Emogi
 Type options
 Colors
 vibrant
+Dark mode
+Video calls
+
