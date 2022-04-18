@@ -7,4 +7,6 @@ Colors
 vibrant
 Dark mode
 Video calls
+Audio
+Images
 
