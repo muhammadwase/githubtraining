@@ -1,0 +1,7 @@
+This is Chat Application!
+
+Features:
+Emogi
+Type options
+Colors
+vibrant
